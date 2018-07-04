@@ -1,4 +1,4 @@
-const ChainUtil = require('../chain-utli');
+const ChainUtil = require('../chain-util');
 
 class Transaction {
     constructor() {
